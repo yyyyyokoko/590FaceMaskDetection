@@ -19,7 +19,7 @@ CLASS_NAMES = ['nomask', 'mask']
 
 
 #loading models
-model = load_model('face_mask_julia_cnn_new.h5')
+model = load_model('face_mask_vgg16.h5')
 # model = load_model('face_mask_new.h5')
 detector = MTCNN()
 

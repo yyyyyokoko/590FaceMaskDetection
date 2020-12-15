@@ -5,7 +5,9 @@ This project defines and compares three deep learning algorithms trained and tes
 
 ## Members:
 [Luwei Lei](https://github.com/yyyyyokoko)
+
 [Julia Zhu](https://github.com/Yihan-Julia-Zhu)
+
 [Yu Xiao](https://github.com/YuniceXiao)
 
 ## Final Write-up: `590_final_report.pdf`
@@ -14,7 +16,11 @@ The final paper of this project.
 ## Dataset
 [Face Mask Dataset](https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset)
 
-## Code for Training Models: `model_CNN.ipynb`,`model_MobileNetV2.ipynb`,`model_VGG16.ipynb`
+## Code for Training Models: 
+  - `model_CNN.ipynb`
+  - `model_MobileNetV2.ipynb`
+  - `model_VGG16.ipynb`
+  
 These 3 ipynb files contain the code of training the four deep learning models including  CNN-1layer, CNN-4layer, MobileNetV2 and VGG16.
 
 ## h5 saved from Models: `model_CNN4.h5`,`model_mobileNet.h5`,`model_vgg16.h5`
